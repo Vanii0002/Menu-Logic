@@ -1,0 +1,21 @@
+h1{
+    background-color:red;
+    text-align: center;
+    
+}
+
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .item {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    .btn {
+      padding: 5px 10px;
+      cursor: pointer;
+      color:red
+    }

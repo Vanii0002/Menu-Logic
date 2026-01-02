@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Brownie",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Plum Brownie Cake",
+    "price": 180
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet Cake",
+    "price": 220
+  },
+  {
+    "id": 4,
+    "name": "Fudge Brownie",
+    "price": 150
+  }
+]
